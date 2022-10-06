@@ -1,2 +1,2 @@
 # kivymd-cotacao-diaria
-Aplication em Python utilizando KivyMD
+Aplicativo em Python utilizando KivyMD
