@@ -1,0 +1,218 @@
+[
+    {
+        "id": "1",
+        "codigo": "AFN",
+        "descricao": "Afghani do Afeganistão",
+        "ativo": "0"
+    },
+    {
+        "id": "2",
+        "codigo": "MGA",
+        "descricao": "Ariary Madagascarense",
+        "ativo": "0"
+    },
+    {
+        "id": "3",
+        "codigo": "THB",
+        "descricao": "Baht Tailandês",
+        "ativo": "0"
+    },
+    {
+        "id": "4",
+        "codigo": "PAB",
+        "descricao": "Balboa Panamenho",
+        "ativo": "0"
+    },
+    {
+        "id": "5",
+        "codigo": "ETB",
+        "descricao": "Birr Etíope",
+        "ativo": "0"
+    },
+    {
+        "id": "6",
+        "codigo": "BTC",
+        "descricao": "Bitcoin",
+        "ativo": "1"
+    },
+    {
+        "id": "7",
+        "codigo": "BOB",
+        "descricao": "Boliviano",
+        "ativo": "0"
+    },
+    {
+        "id": "8",
+        "codigo": "VEF",
+        "descricao": "Bolívar Venezuelano",
+        "ativo": "0"
+    },
+    {
+        "id": "9",
+        "codigo": "XBR",
+        "descricao": "Brent Spot",
+        "ativo": "0"
+    },
+    {
+        "id": "10",
+        "codigo": "GHS",
+        "descricao": "Cedi Ganês",
+        "ativo": "0"
+    },
+    {
+        "id": "11",
+        "codigo": "SVC",
+        "descricao": "Colon de El Salvador",
+        "ativo": "0"
+    },
+    {
+        "id": "12",
+        "codigo": "CRC",
+        "descricao": "Colón Costarriquenho",
+        "ativo": "0"
+    },
+    {
+        "id": "13",
+        "codigo": "CZK",
+        "descricao": "Coroa Checa",
+        "ativo": "0"
+    },
+    {
+        "id": "14",
+        "codigo": "DKK",
+        "descricao": "Coroa Dinamarquesa",
+        "ativo": "0"
+    },
+    {
+        "id": "15",
+        "codigo": "ISK",
+        "descricao": "Coroa Islandesa",
+        "ativo": "0"
+    },
+    {
+        "id": "16",
+        "codigo": "NOK",
+        "descricao": "Coroa Norueguesa",
+        "ativo": "0"
+    },
+    {
+        "id": "17",
+        "codigo": "SEK",
+        "descricao": "Coroa Sueca",
+        "ativo": "0"
+    },
+    {
+        "id": "18",
+        "codigo": "NIO",
+        "descricao": "Córdoba Nicaraguense",
+        "ativo": "0"
+    },
+    {
+        "id": "19",
+        "codigo": "SDR",
+        "descricao": "DSE",
+        "ativo": "0"
+    },
+    {
+        "id": "20",
+        "codigo": "GMD",
+        "descricao": "Dalasi da Gâmbia",
+        "ativo": "0"
+    },
+    {
+        "id": "21",
+        "codigo": "MKD",
+        "descricao": "Denar Macedônio",
+        "ativo": "0"
+    },
+    {
+        "id": "22",
+        "codigo": "DZD",
+        "descricao": "Dinar Argelino",
+        "ativo": "0"
+    },
+    {
+        "id": "23",
+        "codigo": "IQD",
+        "descricao": "Dinar Iraquiano",
+        "ativo": "0"
+    },
+    {
+        "id": "24",
+        "codigo": "JOD",
+        "descricao": "Dinar Jordaniano",
+        "ativo": "0"
+    },
+    {
+        "id": "25",
+        "codigo": "KWD",
+        "descricao": "Dinar Kuwaitiano",
+        "ativo": "0"
+    },
+    {
+        "id": "26",
+        "codigo": "LYD",
+        "descricao": "Dinar Líbio",
+        "ativo": "0"
+    },
+    {
+        "id": "27",
+        "codigo": "RSD",
+        "descricao": "Dinar Sérvio",
+        "ativo": "0"
+    },
+    {
+        "id": "28",
+        "codigo": "TND",
+        "descricao": "Dinar Tunisiano",
+        "ativo": "0"
+    },
+    {
+        "id": "29",
+        "codigo": "BHD",
+        "descricao": "Dinar do Bahrein",
+        "ativo": "0"
+    },
+    {
+        "id": "30",
+        "codigo": "MAD",
+        "descricao": "Dirham Marroquino",
+        "ativo": "0"
+    },
+    {
+        "id": "31",
+        "codigo": "AED",
+        "descricao": "Dirham dos Emirados",
+        "ativo": "0"
+    },
+    {
+        "id": "32",
+        "codigo": "STD",
+        "descricao": "Dobra São Tomé/Príncipe",
+        "ativo": "0"
+    },
+    {
+        "id": "33",
+        "codigo": "DOGE",
+        "descricao": "Dogecoin",
+        "ativo": "0"
+    },
+    {
+        "id": "34",
+        "codigo": "VND",
+        "descricao": "Dong Vietnamita",
+        "ativo": "0"
+    },
+    {
+        "id": "35",
+        "codigo": "AMD",
+        "descricao": "Dram Armênio",
+        "ativo": "0"
+    },
+    {
+        "id": "36",
+        "codigo": "USD",
+        "descricao": "Dólar Americano",
+        "ativo": "1"
+    }    
+]

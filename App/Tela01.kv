@@ -1,0 +1,36 @@
+Consulta:
+    name: "Tela01"
+        
+    MDBoxLayout:
+        orientation: 'vertical'
+                
+        MDToolbar:
+            title: "Cotações"
+            # left_action_items: [["menu", "This is the navigation"]]
+            left_action_items: [["home"]]
+            # right_action_items: [["dots-vertical", lambda x: app.callback_1()], ["clock", lambda x: app.callback_2()]]
+            right_action_items: [["plus-box-multiple", lambda x : root.proximaTela("Tela02")]]
+        
+        MDBoxLayout:
+            orientation: 'vertical'
+            size_hint: 1, 1
+            padding: 10
+
+            MDTextField:            
+                id: txtPesquisar
+                hint_text: "Pesquisar"
+                on_text: root.pesquisar(txtPesquisar.text)
+
+            FloatLayout:
+                ScrollView:
+                    effect_cls: "ScrollEffect"
+                    MDList:            
+                        id: box
+                        
+                    
+                MDFloatingActionButton:
+                    pos_hint: {'center_x': 0.90,'center_y': 0.06}
+                    icon: "plus"
+                    on_release: 
+                        root.manager.transition.direction = 'left'
+                        root.proximaTela("Tela02")        

@@ -1,0 +1,29 @@
+Configura:
+    name: "Tela02"
+    
+    MDBoxLayout:
+        orientation: 'vertical'
+        
+        MDToolbar:
+            title: "Configuração"
+            left_action_items: [["arrow-left",lambda x : root.proximaTela("Tela01")]]
+            #right_action_items: [["attachment", lambda x: x],["calendar", lambda x: x],["dots-vertical", lambda x: x],]
+
+        MDBoxLayout:
+            orientation: 'vertical'
+            size_hint: 1, 1
+            padding: 10
+            
+            MDTextField:            
+                id: txtPesquisar
+                hint_text: "Pesquisar"
+                on_text: root.pesquisar(txtPesquisar.text)            
+
+            FloatLayout:
+                ScrollView:
+                    effect_cls: "ScrollEffect"
+                    MDList:            
+                        id: box
+                                            
+                
+                                

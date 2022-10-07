@@ -1,0 +1,24 @@
+MDScreen:
+    name: "Tela00"
+    on_enter: self.ids.progress.start()
+
+    FloatLayout:
+        Image:
+            source: "App/recursos/imagens/python144.png"
+            allow_strech: True
+            anim_delay: 0
+            anim_reset: True
+			
+
+    BoxLayout:
+        pos_hint: {"center_x": 0.5, "center_y": 0.1}
+        padding: "10dp"
+        size_hin_x: 0.7
+        fonte_size: 9
+        MDProgressBar:
+            id: progress
+            orientation: 'horizontal'
+            type: "indeterminate"
+            running_duration: 1
+            catching_duration: 1        
+            color: app.theme_cls.accent_color
